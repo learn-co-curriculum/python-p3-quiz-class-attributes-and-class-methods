@@ -1,7 +1,7 @@
 ---
 id: 53497
 course_id: 7559
-repo: phase-3-quiz-class-variables-and-methods
+repo: python-p3-quiz-class-attributes-and-class-methods
 ---
 
 # Class Attributes and Methods Quiz
